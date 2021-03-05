@@ -4,29 +4,10 @@
 [![npm downloads](https://img.shields.io/npm/dm/react-native-push-notification.svg?update=9)](http://badge.fury.io/js/react-native-push-notification)
 
 React Native Local and Remote Notifications for iOS and Android
+(This is a duplicate of react-native-push-notification, Basically local notifications don't come if we are in foreground in android. and this issue was resovled by me and i needed to use it, As fork was never merged so i updated my own package. It has all the abilities of react-native-push-notification and it also sends local notification to android when in foreground)
 
 
-## 🎉 Version 7.x is live ! 🎉
-
-Check out for changes and migration in the CHANGELOG:
-
-[Changelog](https://github.com/zo0r/react-native-push-notification/blob/master/CHANGELOG.md)
-
-# Supporting the project
-
-Maintaining this project takes time. To help allocate time, you can Buy Me a Coffee :wink:
-
-<a href="https://www.buymeacoffee.com/Dallas62" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
-## Supported React Native Versions
-
-| Component Version | RN Versions          | README                                                                                                                 |
-| ----------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **1.0.7**         | **<= 0.27**          | [Open](https://github.com/zo0r/react-native-push-notification/blob/f42723817f1687e0da23e6753eb8a9f0385b6ac5/README.md) |
-| **1.0.8**         | **0.28**             | [Open](https://github.com/zo0r/react-native-push-notification/blob/2eafd1961273ca6a82ad4dd6514fbf1d1a829089/README.md) |
-| **2.0.1**         | **0.29**             | [Open](https://github.com/zo0r/react-native-push-notification/blob/c7ab7cd84ea19e42047379aefaf568bb16a81936/README.md) |
-| **2.0.2**         | **0.30, 0.31, 0.32** | [Open](https://github.com/zo0r/react-native-push-notification/blob/a0f7d44e904ba0b92933518e5bf6b444f1c90abb/README.md) |
-| **>= 2.1.0**      | **>= 0.33**          | [Open](https://github.com/zo0r/react-native-push-notification/blob/a359e5c00954aa324136eaa9808333d6ca246171/README.md) |
+## 🎉 Version 1.x is live ! 🎉
 
 ## Changelog
 
